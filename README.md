@@ -3,39 +3,39 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_EMAIL">Email</a>
+  <a href="mailto:vaibhav.sharma17649@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- MEng Software Engineering @ Concordia University  
-- AI Engineer @ National Research Council Canada  
-- Working on NLP systems for **Canadian Building Codes (NLP + RAG + LLMs)**  
-- Focused on **real-world AI systems, not just experiments**
+🔭 I’m currently working as an **AI/Data Science Engineer at National Research Council Canada (NRC)**  
+Working on NLP systems for **Canadian Building Codes (RAG + LLMs + structured pipelines)** and exploring **multimodal AI workflows**
 
----
+📊 Alongside AI work, I’ve also built **automation pipelines and Power BI dashboards** to streamline project tracking and reporting — helping reduce manual effort and improve visibility across teams  
 
-## 🔥 Current Work
+💡 Interested in solving real-world problems through **data, systems, and scalable AI solutions**  
 
-- 📊 Variation detection across national vs provincial building codes  
-- 🤖 Article-level summarization using LLM + chunking pipelines  
-- 🧩 RAG pipelines for structured code analysis  
-- 📈 Public Review AI (comment clustering + semantic analysis)
+🤝 I’m open to collaborating on **applied AI/ML projects, NLP systems, RAG pipelines, or anything impactful in real-world domains**  
+
+💬 Ask me about: **AI, Machine Learning, NLP, Deep Learning, Data Science**  
+
+📫 Reach me at: **vaibhav.sharma17649@gmail.com**
 
 ---
 
 ## 💼 Experience
 
-- **AI Engineer — NRC Canada** *(2024–Present)*  
-  - Built NLP pipelines for code comparison and variation detection  
-  - Worked with embeddings + alignment models (AER evaluation)  
-  - Experimenting with LLM-based summarization at scale  
+- **AI/Data Science Engineer — National Research Council Canada** *(2024–Present)*  
+  - Developed NLP pipelines for large-scale regulatory code analysis  
+  - Built variation detection systems using embeddings + alignment techniques (AER evaluation)  
+  - Designed LLM-based summarization workflows for article-level insights  
+  - Created Power BI dashboards and Power Automate flows to track milestones and improve reporting efficiency  
 
-- **Data Engineer Intern — WNS Global Services**  
+- **Data Science Intern — WNS Global Services**  
   - Built ML pipelines using PySpark & Azure  
-  - NLP classification for multiple client datasets  
+  - Worked on NLP classification systems across multiple client datasets  
 
 ---
 
@@ -74,4 +74,4 @@
 
 ## ⚡ Fun Fact
 
-I work on real-world AI problems — not just notebooks 🙂
+I like working on AI systems that actually get used — not just trained 🙂
