@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">AI/ML Engineer | Applied NLP | Generative AI</h3>
+<h3 align="center">AI Engineer/ Data Scientist | Applied NLP | Generative AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-sharma-a08718234/">LinkedIn</a> •
