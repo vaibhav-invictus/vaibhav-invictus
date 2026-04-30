@@ -10,13 +10,19 @@
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently working as an **AI/Data Science Engineer at National Research Council Canada (NRC)**  
-Working on NLP systems for **Canadian Building Codes (RAG + LLMs + structured pipelines)** and exploring **multimodal AI workflows**
+🔭 **AI/Data Science Engineer @ National Research Council Canada (NRC)**  
+  Building AI systems for **Canadian Building Codes**, working with **NLP, RAG, LLMs, and structured data pipelines** to transform complex regulatory text into decision-ready insights  
 
-📊 Alongside AI work, I’ve also built **automation pipelines and Power BI dashboards** to streamline project tracking and reporting — helping reduce manual effort and improve visibility across teams  
+🏗️ Architected a **RAG-based NLP pipeline** for large-scale building code analysis, enabling semantic alignment and variation detection across **national and provincial datasets (10K+ sections/articles)** using **Python and embedding models**, supporting insights for regulatory stakeholders  
 
-💡 Interested in solving real-world problems through **data, systems, and scalable AI solutions**  
+🔍 Implemented **embedding-based retrieval and clustering pipelines** (sentence-transformers, contextual inputs, PCF metadata) for Public Review AI, improving **theme coherence and clustering quality by ~25–30%** across large-scale public comment datasets  
 
+⚡ Applied **LLM optimization techniques (Mistral and LoRA fine-tuning + efficient inference)** to enhance article-level summarization of code variations, improving **consistency and relevance** while reducing computational overhead  
+
+🧠 Improved **regulatory text classification and structuring** using transformer models (**RoBERTa, DistilBERT, HuggingFace/PyTorch**), achieving **~20% performance improvement** on large-scale datasets. 
+
+📊 Built **Power BI dashboards and automation workflows** for project tracking and reporting, improving visibility and streamlining cross-team coordination  
+ 
 🤝 I’m open to collaborating on **applied AI/ML projects, NLP systems, RAG pipelines, or anything impactful in real-world domains**  
 
 💬 Ask me about: **AI, Machine Learning, NLP, Deep Learning, Data Science**  
