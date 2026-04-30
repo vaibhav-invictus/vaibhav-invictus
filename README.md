@@ -37,17 +37,10 @@
 
 ## 💼 Experience
 
-- **AI/Data Science Engineer — National Research Council Canada** *(2024–Present)*  
-  - Developed NLP pipelines for large-scale regulatory code analysis  
-  - Built variation detection systems using embeddings + alignment techniques (AER evaluation)  
-  - Designed LLM-based summarization workflows for article-level insights  
-  - Created Power BI dashboards and Power Automate flows to track milestones and improve reporting efficiency  
-
-- **Data Science Intern — WNS Global Services**  
-  - Built ML pipelines using PySpark & Azure  
-  - Worked on NLP classification systems across multiple client datasets  
-
----
+| 💼 Role | 🏢 Organization | 📅 Duration |
+|--------|----------------|------------|
+| 🤖 AI/Data Science Engineer | National Research Council Canada (NRC) | September 2025 – Present |
+| 📊 Data Engineer (Research & Analytics) | WNS Global Services | Jun 2022 – May 2023 |
 
 ## 🛠 Tech Stack
 
