@@ -24,7 +24,7 @@
 
 🔄 Built **automation pipelines (Power Automate)** and **Power BI dashboards** to streamline project tracking and reporting, improving cross-team visibility and reducing manual effort  
 
-🌱 Developed **end-to-end reporting and automation workflows** to estimate and track **GHG reduction potential**, improving reporting efficiency by ~40% and supporting **Canada’s decarbonization and infrastructure transformation initiatives**  
+🌱 Developed **end-to-end reporting and automation workflows using n8n** to estimate and track **GHG reduction potential**, improving reporting efficiency by ~40% and supporting **Canada’s decarbonization and infrastructure transformation initiatives**  
 
 📈 Designed **data models and real-time dashboards** to monitor milestones, performance metrics, and generate automated alerts for proactive decision-making  
  
