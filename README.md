@@ -107,6 +107,12 @@
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-invictus&show_icons=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-invictus&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-invictus&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vaibhav-invictus&theme=tokyonight)
+
 ---
 
 ## ⚡ Fun Fact
