@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Applied NLP | Generative AI</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vaibhav-sharma-a08718234/">LinkedIn</a> •
   <a href="mailto:vaibhav.sharma17649@gmail.com">Email</a>
 </p>
 
