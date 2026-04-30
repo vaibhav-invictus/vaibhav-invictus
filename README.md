@@ -7,6 +7,7 @@
 </p>
 
 ---
+<h3 align="center">I like working on AI systems that actually get used — not just trained 🙂</h3>
 
 ## 👨‍💻 About Me
 
@@ -92,13 +93,4 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-invictus&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-invictus&layout=compact&theme=tokyonight)
-
----
-
-## ⚡ Fun Fact
-
-I like working on AI systems that actually get used — not just trained 🙂
