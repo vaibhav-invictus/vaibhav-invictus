@@ -60,7 +60,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-000000)
-![FAISS](https://img.shields.io/badge/FAISS-009688)
 ![RAG](https://img.shields.io/badge/RAG-4CAF50)
 
 ---
@@ -104,20 +103,9 @@
 
 ---
 
-## 🚀 Projects
-
-- **Variations AI**
-  - NLP-based system to detect differences between national & provincial codes  
-  - Uses embeddings + alignment techniques  
-
-- **Public Review AI**
-  - Clustering + summarization of public comments using NLP + LLMs  
-
----
-
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-invictus&show_icons=true)
 
 ---
 
