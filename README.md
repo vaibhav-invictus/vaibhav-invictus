@@ -52,8 +52,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
----
-
 ### 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -62,22 +60,16 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000)
 ![RAG](https://img.shields.io/badge/RAG-4CAF50)
 
----
-
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
----
-
 ### 🧩 Frameworks & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
----
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -86,14 +78,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2)
 
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
----
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
