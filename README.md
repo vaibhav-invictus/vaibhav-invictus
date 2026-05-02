@@ -91,6 +91,5 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-invictus&show_icons=true&theme=tokyonight)
